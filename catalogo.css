@@ -1,0 +1,59 @@
+header
+{
+    text-align: center;
+}
+* {
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-size-adjust: 0.1px;
+    color: brown;
+}
+h3{
+    color: rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+}
+h5{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h6{
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 1%;
+    margin: 1%;
+    width: 20.78%;
+    height: 21%;
+    float:right;
+    text-align: center;
+        
+}
+button{
+    color:red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 3%;
+}
+button:hover{
+    color:indianred;
+    transform:scale(1.5)
+
+
+}
+div > img {
+    width: 200px;
+    height: 200px;
+}
+header > img{
+    border: 1px solid black;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+footer{
+    margin-top: 450px;
+    text-align: center;
+}
